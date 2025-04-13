@@ -10,3 +10,4 @@
 *.run.xml
 *__init__.py
 *__pycache__*
+*.iso
